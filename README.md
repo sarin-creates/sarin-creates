@@ -1,16 +1,18 @@
-## Hi there 👋
+## Sarin · 👋
+ 
+Early-stage builder creating interactive systems.
 
-<!--
-**sarin-creates/sarin-creates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Sarin:
+    def __init__(self):
+        self.stack = ["Python", "HTML", "CSS"]
+        self.tools = ["Git", "GitHub", "VS Code", "Unreal Engine", "Photoshop"]
+        self.status = "in progress"
 
-Here are some ideas to get you started:
+    def run(self):
+        return self.status
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+Most systems remain operational. *Mostly.*
+
+Check repositories for ongoing work — someone is always building something here.

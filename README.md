@@ -2,6 +2,8 @@
  
 Early-stage builder creating interactive systems.
 
+Currently learning C++ and building with Unreal Engine.
+
 ```python
 class Sarin:
     def __init__(self):

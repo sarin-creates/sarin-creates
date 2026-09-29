@@ -5,8 +5,8 @@ Early-stage builder creating interactive systems.
 ```python
 class Sarin:
     def __init__(self):
-        self.stack = ["Python", "HTML", "CSS"]
-        self.tools = ["Git", "GitHub", "VS Code", "Unreal Engine", "Photoshop"]
+        self.stack = ["Python", "HTML", "CSS", "C++ (Unreal Engine)"]
+        self.tools = ["Git", "GitHub", "VS Code", "Visual Studio", "Rider", "Unreal Engine", "Photoshop"]
         self.status = "in progress"
 
     def run(self):
